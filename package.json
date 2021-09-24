@@ -1,0 +1,14 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
